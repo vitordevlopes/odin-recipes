@@ -1,6 +1,6 @@
 # Overview
 
-It's the first project from The Odin Project course. I need to make a recipes web site, it looks easy because I already know basic HTML, but it want to follow the courses as it was made to do.
+It's the first project from The Odin Project course. I need to make a recipes web site, it looks easy because I already know basic HTML, but I want to follow the courses as it was made to do.
 
 ## Languages and Resources
 
